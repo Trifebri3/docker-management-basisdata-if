@@ -1,0 +1,10 @@
+# .gitignore
+
+.env
+
+pg_data/
+pgadmin_data/
+
+
+.DS_Store
+Thumbs.db
